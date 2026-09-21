@@ -93,31 +93,31 @@
 
 # h.w age calculator,BMI cacualtor
 
-# #age calculator
-# def findage(byear):
-#   #  year_now = date.today().year
-#     year_now=2026
-#     age=year_now-byear
-#     return age
-#
-# def agecalculator():
-#     byear=int(input("enter year of birth"))
-#     print("age is",findage(byear))
-#
-# agecalculator()
+#age calculator
+def findage(byear):
+  #  year_now = date.today().year
+    year_now=2026
+    age=year_now-byear
+    return age
+
+def agecalculator():
+    byear=int(input("enter year of birth"))
+    print("age is",findage(byear))
+
+agecalculator()
 
 ## BMI Calculator
-def calculatebmi(weight,height):
-    bmi=weight/(height**2)
-
-    if bmi < 18.5:
-        return 'Underweight'
-    elif 18.5 <= bmi < 25:
-        return 'Healthy Weight'
-    else:
-        return 'Overweight'
-
-
-weight=float(input("enter weight"))
-height=float(input("enter height"))
-print(calculatebmi(weight,height))
+# def calculatebmi(weight,height):
+#     bmi=weight/(height**2)
+#
+#     if bmi < 18.5:
+#         return 'Underweight'
+#     elif 18.5 <= bmi < 25:
+#         return 'Healthy Weight'
+#     else:
+#         return 'Overweight'
+#
+#
+# weight=float(input("enter weight"))
+# height=float(input("enter height"))
+# print(calculatebmi(weight,height))

@@ -21,10 +21,12 @@
 # print("sum is",sum)
 
 #reverse of string
-str="sinoalex"
-revstr=""
-print(len(str))
-for i in str:
-  #print(i)
-    revstr=i+revstr
-print(revstr)
+# str="sinoalex"
+# revstr=""
+# print(len(str))
+# for i in str:
+#   #print(i)
+#     revstr=i+revstr
+# print(revstr)
+
+

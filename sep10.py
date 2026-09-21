@@ -1,6 +1,8 @@
 #lambda and recursion
-def counttozero(n):
-    print(n)
-    if n==0:
-        return
-    re
+for i in range(1,6):
+    for j in range(1,6):
+        if j==1 or j==5 or i==3:
+            print("*",end="'")
+        else:
+            print('  ',end="")
+    print('  ')
