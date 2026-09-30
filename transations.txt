@@ -1,0 +1,16 @@
+
+ Account created
+ Amount deposited
+ Amount withdraw
+ Account created
+ Amount deposited. amount445
+ Amount withdraw. amount345
+ Account created. name--sino  Account Blance:--444
+ Amount deposited. amount445
+ Amount withdraw. amount345
+ Account created. name--sino alex  Account Blance:--1000
+ Amount deposited. amount1500
+ Amount withdraw. amount1400
+ Account created. name--sino alex  Account Blance:--1000
+ Amount deposited. amount1500
+ Amount withdraw. amount1400
